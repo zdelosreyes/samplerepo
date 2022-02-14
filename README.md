@@ -1,3 +1,3 @@
 # samplerepo
-head
+main
 this is the readme.md content
