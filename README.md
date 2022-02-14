@@ -1,4 +1,3 @@
 # samplerepo
-
-branch 1 
+main
 this is the readme.md content
